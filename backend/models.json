@@ -1,0 +1,6 @@
+{
+    "sentence-transformers/all-MiniLM-L12-v2": {
+        "token_limit": 128,
+        "dims": 384
+    }
+}

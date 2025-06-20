@@ -1,0 +1,10 @@
+flask[async]
+flask-cors
+boto3
+asyncpg
+python-dotenv
+sagemaker
+pinecone
+gunicorn 
+openai
+numpy
